@@ -1,0 +1,24 @@
+.sheeppic {
+    width: 25%;
+    height: 25%;
+}
+
+.sermonpic {
+    width: 25%;
+    height: 61%;
+    position: absolute;
+    left: 35%;
+    top: 2%;
+}
+.jesuswkids {
+    width: 25%;
+    height: 61%;
+    position: absolute;
+    right: 3%;
+    top: 3%;
+}
+
+.caption {
+    position: relative;
+    top: 1%;
+}
